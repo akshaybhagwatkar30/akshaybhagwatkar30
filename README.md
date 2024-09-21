@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Bhgwatkar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaybhagwatkar30&label=Profile%20views&color=0e75b6&style=flat" alt="akshaybhagwatkar30" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
@@ -13,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshay-bhagwatkar-418299170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-bhagwatkar-418299170/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ninjacoderplatform" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ninjacoderplatform" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/http://www.youtube.com/@ninjancoderplatform" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@ninjancoderplatform" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
